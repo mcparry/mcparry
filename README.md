@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mcparry (Martin Parry)
-- 👀 I’m cloud-native microservices development using .NET, on-premise server development with C++, and a little mobile development with Flutter
+- 👀 I’m into cloud-native microservices development using .NET, on-premise server development with C++, and a little mobile development with Flutter
 - 🌱 I’m currently learning DAPR
 
 <!---
