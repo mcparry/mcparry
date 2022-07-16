@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @mcparry (Martin Parry)
-- 👀 I’m into cloud-native microservices development using .NET, on-premise server development with C++, and a little mobile development with Flutter
-- 🌱 I’m currently learning DAPR
+30 years, man and boy, as a software developer in the UK.
+I build distributed applications that run on Windows or Cloud-native,
+using C++, C#, MySQL, MSSQL, Windows, Azure, etc.
 
-<!---
-mcparry/mcparry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[See me on LinkedIn](https://www.linkedin.com/in/martinparry/).
