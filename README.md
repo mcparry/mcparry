@@ -1,6 +1,7 @@
-30 years, man and boy, as a software developer in the UK.
+30 years in the software development industry.
 
-I build distributed applications that run on Windows or Cloud-native,
-using C++, C#, MySQL, MSSQL, Windows, Azure, etc.
+Based in the UK.
+
+I have delivered complex systems running on Windows, Cloud-native, and Android, using C++, C#, MySQL, MSSQL, etc.
 
 [See me on LinkedIn](https://www.linkedin.com/in/martinparry/).
